@@ -214,12 +214,12 @@ body.hidden {
 		font-weight: 500;
 		color: $bl;
 		line-height: $lh;
-		padding-bottom: 10px;
+		padding: 0 4px 10px;
 		border-bottom: 1px solid $gray;
 	}
 	&__link {
 		display: block;
-		padding: 8px 2px;
+		padding: 8px 4px;
 		font-family: $ff;
 		font-size: 16px;
 		font-weight: 400;
